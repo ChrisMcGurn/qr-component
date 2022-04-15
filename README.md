@@ -45,4 +45,4 @@ Continue developing projects with both a mobile-first approach, and a strong foc
 ## Author
 
 - Website - [Christopher P. McGurn](https://github.com/ChrisMcGurn)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ChrisMcGurn)
+- Frontend Mentor - [@ChrisMcGurn](https://www.frontendmentor.io/profile/ChrisMcGurn)
