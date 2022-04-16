@@ -62,11 +62,7 @@ body {
 
 @media screen and (min-width: 550px) {
   .qr {
-    max-width: 370px;
-  }
-
-  .qr__title {
-    font-size: 2.6rem;
+    max-width: 320px;
   }
 }
 
